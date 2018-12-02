@@ -1,0 +1,98 @@
+/*lifestyle*/
+
+
+/*format x-axis on lifestyle chart*/
+/*--------------------------------------------------*/
+/*https://bl.ocks.org/d3noob/629790fc15cc1afba0253f29a4d246e7*/
+g.life-x-axis line{
+    stroke: lightgray;
+}
+g.life-x-axis path{
+    stroke: lightgray;
+}
+/*--------------------------------------------------*/
+
+
+.lifestyle-x-labels {
+    text-anchor: middle;
+    font-family: Arial Rounded MT Bold,Helvetica Rounded,Arial,sans-serif;
+    font-size: 14px;
+
+}
+
+.checkboxes {
+    text-align: left;
+    font-family: Arial Rounded MT Bold,Helvetica Rounded,Arial,sans-serif;
+    font-size: 14px;
+}
+
+#hoverdetails {
+    font-size: 12px;
+    padding: 20px;
+}
+
+
+tr {
+    height: 10px;
+}
+
+.table td, .table th, .table thead th {
+    padding: 0px;
+    border-color: transparent;
+}
+
+.table {
+    margin-top: 20px;
+    margin-bottom: 0;
+    font-size: 16px;
+    padding: 10px;
+    table-layout: auto;
+}
+
+.note {
+    font-size: 12px;
+    font-style: italic;
+    color: gray;
+    /*margin-bottom: 0;*/
+    padding-bottom: 20;
+}
+#lifestyle {
+    padding: 10px;
+}
+
+
+/*tooltips*/
+/*--------------------------------------------------*/
+/*http://bl.ocks.org/Caged/6476579*/
+.d3-tip {
+    line-height: 1;
+    font-weight: bold;
+    padding: 5px;
+    /*background: rgba(0, 0, 0, 0.8);*/
+    /*color: #fff;*/
+    color: black;
+    border-radius: 1px;
+    font-size: 12px;
+    text-align: center;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    font-size: 8px;
+    width: 100%;
+    line-height: 1;
+    color: rgba(0, 0, 0, 0.8);
+    content: "\25BC";
+    position: absolute;
+    text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+    margin: -1px 0 0 0;
+    top: 100%;
+    left: 0;
+}
+/*--------------------------------------------------*/

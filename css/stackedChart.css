@@ -1,0 +1,46 @@
+/*stacked chart*/
+
+
+
+#stackedchart{
+
+    margin-left: 60px;
+    margin-right: 120px;
+    margin-bottom: 0px;
+}
+
+.x-axis text {
+    font-size: 14px;
+}
+
+#hours{
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    font-weight: bolder;
+    font-size: 200px;
+    /*animation-duration: 1s;*/
+    /*animation-delay: 2s;*/
+    /*animation-iteration-count: infinite;*/
+}
+
+.legend,
+.legend2,
+.Xaxis,
+.Yaxis,
+.tooltip,
+.axis {
+    font-family: Arial Rounded MT Bold,Helvetica Rounded,Arial,sans-serif;
+    font-size: 12px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: black;
+}
+
+.grid,
+.Xaxis line {
+    fill: none;
+    stroke: #D4D8DA;
+    stroke-width: 1px;
+    opacity: 0.4;
+    shape-rendering: crispEdges;
+}
