@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9e232b2-c56f-4a7b-80f1-476bd4738890" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="b9e232b2-c56f-4a7b-80f1-476bd4738890" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -47,11 +45,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="217" column="20" selection-start-line="217" selection-start-column="20" selection-end-line="217" selection-end-column="20" />
+            <state relative-caret-position="367">
+              <caret line="229" column="29" selection-start-line="229" selection-start-column="29" selection-end-line="229" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -65,7 +63,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/stackedchart.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="307">
@@ -90,6 +88,7 @@
       <find>youtube</find>
       <find>rgb</find>
       <find>stroke&quot;</find>
+      <find>div id=&quot;hoverdetails&quot; align=&quot;middle&quot;&gt;&lt;/div&gt;</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -188,12 +187,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543798426456</updated>
-      <workItem from="1543798427991" duration="1721000" />
+      <workItem from="1543798427991" duration="2133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1721000" />
+    <option name="totallyTimeSpent" value="2133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="23" width="1230" height="773" extended-state="0" />
@@ -225,6 +224,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/diffvis.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1962">
+          <caret line="535" column="47" lean-forward="true" selection-start-line="535" selection-start-column="47" selection-end-line="535" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="229" column="29" selection-start-line="229" selection-start-column="29" selection-end-line="229" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/stackedchart.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
@@ -237,20 +250,6 @@
             <element signature="n#style#0;n#a#0;n#b#0;n#p#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#strong#0;n#p#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/diffvis.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1962">
-          <caret line="535" column="47" lean-forward="true" selection-start-line="535" selection-start-column="47" selection-end-line="535" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="217" column="20" selection-start-line="217" selection-start-column="20" selection-end-line="217" selection-end-column="20" />
         </state>
       </provider>
     </entry>
