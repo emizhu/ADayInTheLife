@@ -495,7 +495,7 @@ DiffVis.prototype.drawBlanks = function() {
         })
         .attr("stroke", function() {
             if (!vis.init)
-                return "#131313";
+                return "#474747";
         })
         .attr("stroke-width", function() {
             if (!vis.init)
