@@ -453,13 +453,13 @@ StackedChart.prototype.updateVis_filtered = function(){
                     // console.log(this);
 
 
-                    var activityr = vis.dataCat2[inDex];
+                    // var activityr = vis.dataCat2[inDex];
                     // console.log(vis.dataCat2[activityr]);
 
                     textColor = vis.z(inDex);
 
 
-                    getText_Average (d.data.age, format((d[1] - d[0])), activityr, inDex, vis.facts);
+                    // getText_Average (d.data.age, format((d[1] - d[0])), activityr, inDex, vis.facts);
 
                     vis.tooltip.html("<b>" + format((d[1] - d[0]))+"</b>" + " Minutes " )
                         .style("left", (d3.event.pageX + 3) + "px")
